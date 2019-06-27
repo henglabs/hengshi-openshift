@@ -1,0 +1,2 @@
+# openshift
+build for openshift
